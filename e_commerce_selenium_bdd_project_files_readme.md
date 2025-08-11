@@ -1,4 +1,4 @@
-# E-commerce Selenium BDD Project — Ready-to-upload files
+# E-commerce Selenium BDD Project
 
 > This document contains the full project files for **Project 1: E‑Commerce Web App Testing** (Selenium + Cucumber BDD + Java + Maven). The project uses **Chrome only** (as requested) via WebDriverManager.
 
